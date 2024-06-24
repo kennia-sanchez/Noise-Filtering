@@ -2,7 +2,7 @@
 Computer Vision 
 
 Kennia Jackeline Sánchez Castillo A00517129 <br>
-Profe. Braian Rodriguez Monterrey, Nuevo León 10 de Junio, 2024
+Prof. Braian Rodriguez Monterrey, Nuevo León June 10, 2024
 
 <hr>
 
